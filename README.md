@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adamu Abubakar
 - 💻 Backend-Focused JavaScript & MERN Developer
-- 👀 I’m interested in Database Administration, Cyber Security, and JavaScript powered Backend Development ...
-- 🌱 I’m currently learning the Essentials of Software Development with the #3MTT program
+- 👀 I’m interested in Database Administration, and JavaScript-powered Backend Development ...
+- 🌱 I’m currently learning the Essentials of Data Structure and Algorithms with JavaScript ...
 - 💞️ I’m looking to collaborate on my journey with more interest in having an accountability partner.
 - 📫 You can reach me at engr.adamulab@gmail.com
 
