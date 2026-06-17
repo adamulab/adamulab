@@ -88,7 +88,7 @@
 
 ```json
 {
-  "email"    : "engr.adamulab@gmail.com",
+  "email"    : "adamudev@gmail.com",
   "linkedin" : "https://linkedin.com/in/adamucreates",
   "twitter"  : "https://twitter.com/adamucreates",
   "portfolio": "https://adamucreates.online"
